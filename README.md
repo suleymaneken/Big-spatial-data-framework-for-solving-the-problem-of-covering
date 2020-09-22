@@ -1,6 +1,6 @@
 # big-spatial-data-framework-for-solving-the-problem-of-covering
 
-<p>polygon covering, big spatial data, MapReduce, spatial query, GISy</p>
+<p>polygon covering, big spatial data, MapReduce, spatial query, GIS</p>
 <p>This repository contains Java code to solve the polygon covering problem in a performance efficient way. (Sep 2017).</p>
 
 # Citing
